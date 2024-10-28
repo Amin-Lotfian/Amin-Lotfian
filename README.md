@@ -2,23 +2,21 @@
 
 ## About Me
 
-[![](https://img.shields.io/badge/Website-alighasemi-red)](https://alighasemi78.github.io/Portfolio-Website/)
-
-- Student of Computer Engineering (Expected Graduation Date: December 2022)
-- 22 Years Old
-- Email: [hesanghasemi99@gmail.com][myemail]
-- Skype: [https://join.skype.com/invite/DzgVodgiRYUs][myskype]
-- LinkedIn: [https://www.linkedin.com/in/alighasemi13781999][mylinkedin]
-- GitHub: [https://github.com/alighasemi78][mygithub]
-- Website: [https://alighasemi78.github.io/Portfolio-Website][mywebsite]
+- Student of Tourism (Expected Graduation Date: December 2024)
+- 29 Years Old
+- Email: [amin.lotfian@gmail.com][myemail]
+- LinkedIn: [https://www.linkedin.com/in/aminlotfian][mylinkedin]
+- GitHub: [https://github.com/amin-lotfian][mygithub]
+- Website: [https://cafebazaar.ir/app/com.darokooapp?l=en][mywebsite]
 
 ## Languages
 
-- English
-  - Advanced
-    - TOEFL Score: 111/120
 - Farsi
   - Native
+- Italian
+  - Professional working proficiency
+- English
+  - full working proficiency
 
 ## Education
 
