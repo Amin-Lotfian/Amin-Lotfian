@@ -4,10 +4,10 @@
 
 - Student of Tourism (Expected Graduation Date: December 2024)
 - 29 Years Old
-- Email: [amin.lotfian@gmail.com][myemail]
-- LinkedIn: [https://www.linkedin.com/in/aminlotfian][mylinkedin]
-- GitHub: [https://github.com/amin-lotfian][mygithub]
-- Website: [https://cafebazaar.ir/app/com.darokooapp?l=en][mywebsite]
+- Email: [amin.lotfian@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/aminlotfian]
+- GitHub: [https://github.com/amin-lotfian]
+- Website: [https://cafebazaar.ir/app/com.darokooapp?l=en]
 
 ## Languages
 
