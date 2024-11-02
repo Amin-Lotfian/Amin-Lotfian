@@ -3,10 +3,10 @@
 ## About Me
 
 
-- Email: [amin.lotfian@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/aminlotfian]
-- GitHub: [https://github.com/amin-lotfian]
-- Website: [https://cafebazaar.ir/app/com.darokooapp?l=en]
+- Email: amin.lotfian@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aminlotfian
+- GitHub: https://github.com/amin-lotfian
+- Website: https://cafebazaar.ir/app/com.darokooapp?l=en
 - Iran/ Italy
 - 29 Years Old
 - With a lifetime experience with data analytics, I am a highly motivated Data enthusiast with a passion for predictive analysis. I am well skilled with Python and SQL, along with a solid statistics knowledge. 
