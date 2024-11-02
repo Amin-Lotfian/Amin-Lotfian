@@ -19,7 +19,7 @@ Of course, my experience of running a Two-Sided pharmaceutical start-up platform
 - M.A. Tourism Strategy, Cultural Heritage, And Made In Italy. Tor Vergata University of Rome. September 2022 – December 2024
 - M.Sc.  Industrial Engineering. Sharif University of Technology (Tehran). September 2017 – January 2020
 - B.Sc.  Industrial Engineering. KNTU University of Technology (Tehran). September 2013 – September 2017
-- High school and pre-university degree. National Organization for Development of Exceptional Talents (NODET -Tehran). September 2009 – September 2013
+- High school and pre-university degree. National Organization for Development of Exceptional Talents (Tehran). September 2009 – September 2013
 
 ## Certifications
 
