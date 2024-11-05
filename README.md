@@ -10,9 +10,7 @@
 - Iran/ Italy
 - 29 Years Old
 - With a lifetime of experience in data analytics and deriving valuable insights from diverse datasets, I am well skilled with Python, SQL and Excel, along with a solid statistics knowledge.
-
 I did a full-time job in Rome for about Ten months in the AGHC company. I served as the only data scientist and revenue analyst there. I demonstrated a commitment to excellence and work ethic. My solid background of statistics and data analysis, pushed me to seek further. Therefor I quit the company to learn and pass professional certifications of Python and SQL for data analytics. As a current data analyst and future Data Engineer, I am passionate about applying descriptive and predictive analytics, using different methods of machine learning and statistics. 
-
 Of course, my experience of running a Two-Sided pharmaceutical start-up platform, has shaped well my mind and my decision-making procedures.  
 
 
