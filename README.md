@@ -9,9 +9,9 @@
 - Website: https://cafebazaar.ir/app/com.darokooapp?l=en
 - Iran/ Italy
 - 29 Years Old
-- With a lifetime of experience in data analytics and deriving valuable insights from diverse datasets, I am well skilled with Python, SQL and Excel, along with a solid statistics knowledge.
-I did a full-time job in Rome for about Ten months in the AGHC company. I served as the only data scientist and revenue analyst there. I demonstrated a commitment to excellence and work ethic. My solid background of statistics and data analysis, pushed me to seek further. Therefor I quit the company to learn and pass professional certifications of Python and SQL for data analytics. As a current data analyst and future Data Engineer, I am passionate about applying descriptive and predictive analytics, using different methods of machine learning and statistics. 
-Of course, my experience of running a Two-Sided pharmaceutical start-up platform, has shaped well my mind and my decision-making procedures.  
+- With extensive experience in data analytics and deriving valuable insights from diverse datasets, I am skilled in Python, SQL, and Excel, with a strong foundation in statistics. I held a full-time role in Rome for about ten months at AG Hotel Consulting, where I served as the only data scientist and revenue analyst. During my time there, I demonstrated a commitment to excellence and a strong work ethic.
+My solid background in statistics and data analysis motivated me to seek further development, leading me to leave the company to pursue professional certifications in Python and SQL for data analytics. As a current data analyst and aspiring data engineer, I am passionate about building robust data pipelines, managing data warehouses, and applying advanced data analytics techniques.
+Additionally, my experience running a two-sided start-up platform has developed my strategic thinking and decision-making abilities. A classmate and I co-founded Darookoo (LLC), an intelligent pharmaceutical platform that connected users with pharmacies in a two-sided B2C marketplace. This platform effectively reduced both the time and cost of in-person pharmacy visits. As a COO turned CEO, my contributions spanned multiple domains, including project management, product development and customer engagement. 
 
 
 ## Education
