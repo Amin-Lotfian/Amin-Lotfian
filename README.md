@@ -8,10 +8,12 @@
 - GitHub: https://github.com/amin-lotfian
 - Website: https://cafebazaar.ir/app/com.darokooapp?l=en
 - Iran/ Italy
-- 29 Years Old
-- With extensive experience in data analytics and deriving valuable insights from diverse datasets, I am skilled in Python, SQL, and Excel, with a strong foundation in statistics. I held a full-time role in Rome for about ten months at AG Hotel Consulting, where I served as the only data scientist and revenue analyst. During my time there, I demonstrated a commitment to excellence and a strong work ethic.
-My solid background in statistics and data analysis motivated me to seek further development, leading me to leave the company to pursue professional certifications in Python and SQL for data analytics. As a current data analyst and aspiring data engineer, I am passionate about building robust data pipelines, managing data warehouses, and applying advanced data analytics techniques.
-Additionally, my experience running a two-sided start-up platform has developed my strategic thinking and decision-making abilities. A classmate and I co-founded Darookoo (LLC), an intelligent pharmaceutical platform that connected users with pharmacies in a two-sided B2C marketplace. This platform effectively reduced both the time and cost of in-person pharmacy visits. As a COO turned CEO, my contributions spanned multiple domains, including project management, product development and customer engagement. 
+- 30 Years Old
+- Sono un Ingegnere Industriale e un BI e Data Analyst appassionato, con una solida esperienza in analisi, modellazione, reporting e visualizzazione dei dati. Possiedo competenze avanzate in Power BI, Power Query, DAX, Excel, statistica, Python e SQL.
+
+Durante il mio percorso di studi magistrali a Roma, ho ricoperto una posizione a tempo pieno come Data Analyst presso AG Hotel Consulting. In questa posizione, Sviluppato e gestito tutti i database, occupandomi della manutenzione e della creazione di nuovi, nonché della generazione di report personalizzati e visualizzazioni multivariabili.
+
+Oltre all'analisi, la mia esperienza imprenditoriale come co-fondatore di Darookoo (LLC) e la guida di soluzioni innovative in una piattaforma farmaceutica bilaterale hanno rafforzato le mie capacità di pensiero strategico e decision-making.
 
 
 ## Education
