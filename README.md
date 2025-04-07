@@ -9,11 +9,8 @@
 - Website: https://cafebazaar.ir/app/com.darokooapp?l=en
 - Iran/ Italy
 - 30 Years Old
-- Sono un Ingegnere Industriale e un BI e Data Analyst appassionato, con una solida esperienza in analisi, modellazione, reporting e visualizzazione dei dati. Possiedo competenze avanzate in   Power BI, Power Query, DAX, Excel, statistica, Python e SQL.
+- Sono un ingegnere industriale e un appassionato data analyst, con una solida esperienza nell'analisi, modellazione, trasformazione e visualizzazione dei dati. Possiedo competenze avanzate in SQL, SSMS, PostgreSQL, Python, Power BI, Power Query, DAX, Excel e statistica.
 
-  Durante il mio percorso di studi magistrali a Roma, ho ricoperto una posizione a tempo pieno come Data Analyst presso AG Hotel Consulting. In questa posizione, Sviluppato e gestito tutti i   database, occupandomi della manutenzione e della creazione di nuovi, nonché della generazione di report personalizzati e visualizzazioni multivariabili.
-
-  Oltre all'analisi, la mia esperienza imprenditoriale come co-fondatore di Darookoo (LLC) e la guida di soluzioni innovative in una piattaforma farmaceutica bilaterale hanno rafforzato le       mie capacità di pensiero strategico e decision-making.
 
 
 ## Education
