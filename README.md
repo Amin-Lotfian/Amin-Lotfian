@@ -34,11 +34,3 @@
 - Farsi
   - Native
  
-## Technical skills
-
-- Lnaguages
-  - Python, SQL, Excel, RStudio, Gams
-- Libraries
-  - Panda, Matplotlib, seaborn, scikit-learn
-- Other
-  - Vensim (simulation software), Visio, Balsamiq
