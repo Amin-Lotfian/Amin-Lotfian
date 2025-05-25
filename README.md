@@ -13,7 +13,7 @@
 
 ## Education
 
-- M.A. Tourism Strategy & Cultural Heritage. Tor Vergata University of Rome. September 2022 – December 2024
+- M.A. Tourism Strategy & Cultural Heritage. Tor Vergata University of Rome. September 2022 – February 2025
 - M.Sc.  Industrial Engineering. Sharif University of Technology (Tehran). September 2017 – January 2020
 - B.Sc.  Industrial Engineering. KNTU University of Technology (Tehran). September 2013 – September 2017
 - High school and pre-university degree. National Organization for Development of Exceptional Talents (Tehran). September 2009 – September 2013
