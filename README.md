@@ -5,7 +5,6 @@
 - LinkedIn: https://www.linkedin.com/in/aminlotfian
 - GitHub: https://github.com/amin-lotfian
 - Website: https://cafebazaar.ir/app/com.darokooapp?l=en
-- Iran/ Italy
 - 30 Years Old
 - Sono un ingegnere industriale e un appassionato data analyst, con una solida esperienza nell'analisi, modellazione, trasformazione e visualizzazione dei dati. Possiedo competenze avanzate in SQL, SSMS, PostgreSQL, Python, Power BI, Power Query, DAX, Excel e statistica.
 
