@@ -24,9 +24,9 @@
 - Certified Product development specialist
 
 ## Languages
-- Farsi
-  - Native
 - Italian
   - Professional working proficiency
 - English
   - full working proficiency
+- Persian
+  - Native
