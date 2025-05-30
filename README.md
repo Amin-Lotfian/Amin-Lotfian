@@ -18,7 +18,7 @@
 - High school and pre-university degree. National Organization for Development of Exceptional Talents (Tehran). September 2009 – September 2013
 
 ## Certifications
-- Quantium Data Analytics Job Simulation on Forage (May 2025):
+- Quantium Data Analytics Job Simulation on Forage
 - Python for Data Analytics
 - SQL for Data Analytics
 - Certified Product development specialist
