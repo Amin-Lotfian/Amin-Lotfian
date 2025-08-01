@@ -6,7 +6,9 @@
 - GitHub: https://github.com/amin-lotfian
 - Website: https://cafebazaar.ir/app/com.darokooapp?l=en
 - 30 Years Old
-- Sono un ingegnere industriale e un appassionato data analyst, con una solida esperienza nell'analisi, modellazione, trasformazione e visualizzazione dei dati. Possiedo competenze avanzate in SQL, SSMS, PostgreSQL, Python, Power BI, Power Query, DAX, Excel e statistica.
+- I am an Industrial Engineer and a passionate BI and Data Analyst with solid experience in data analysis, modeling, reporting, and visualization. I possess advanced skills in SQL, SSMS, PostgreSQL, Python, Power BI, Power Query, DAX, Excel, and statistics.
+During my master’s studies in Rome, I held a full-time position as a Data Analyst at AG Hotel Consulting. In this role, I had two primary responsibilities. 1- Developing and managing all databases, including maintenance, data modeling, and creating new databases. 2- Data analysis, which involved delivering actionable insights through custom reports, maximizing revenue via dynamic pricing strategies, and preparing accurate budget forecasts.
+Beyond analysis, my experience as co-founder and CEO of Darookoo (LLC), a bilateral pharmaceutical platform I launched during my Industrial engineering master at Sharif University of Technology, has strengthened my strategic thinking and decision-making skills.
 
 
 
@@ -24,9 +26,9 @@
 - Certified Product development specialist
 
 ## Languages
-- Italian
-  - Professional working proficiency
-- English
-  - full working proficiency
 - Persian
   - Native
+- English
+  - full working proficiency
+- Italian
+  - Professional working proficiency
